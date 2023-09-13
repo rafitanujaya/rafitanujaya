@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Rafi Asshiddiqie Tanujaya](https://github.com/rafitanujaya/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafitanujaya/)
-[![Email Badge](https://img.shields.io/badge/-Email-0e76a8?style=flat-square&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/rafitanujaya/)
+[![Email Badge](https://img.shields.io/badge/-Email-0e76a8?style=flat-square&logo=Gmail&logoColor=white)](mailto:rafibussines@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rafitanujaya)
 ![](https://komarev.com/ghpvc/?username=rafitanujaya)
 
